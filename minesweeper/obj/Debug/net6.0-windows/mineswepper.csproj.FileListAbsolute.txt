@@ -1,0 +1,83 @@
+G:\p\mineswepper\mineswepper\bin\Debug\net6.0-windows\mineswepper.exe
+G:\p\mineswepper\mineswepper\bin\Debug\net6.0-windows\mineswepper.deps.json
+G:\p\mineswepper\mineswepper\bin\Debug\net6.0-windows\mineswepper.runtimeconfig.json
+G:\p\mineswepper\mineswepper\bin\Debug\net6.0-windows\mineswepper.dll
+G:\p\mineswepper\mineswepper\bin\Debug\net6.0-windows\mineswepper.pdb
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form1.resources
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfo.cs
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.dll
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\refint\mineswepper.dll
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.pdb
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\mineswepper.genruntimeconfig.cache
+G:\p\mineswepper\mineswepper\obj\Debug\net6.0-windows\ref\mineswepper.dll
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\bin\Debug\net6.0-windows\mineswepper.exe
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\bin\Debug\net6.0-windows\mineswepper.deps.json
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\bin\Debug\net6.0-windows\mineswepper.runtimeconfig.json
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\bin\Debug\net6.0-windows\mineswepper.dll
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\bin\Debug\net6.0-windows\mineswepper.pdb
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form1.resources
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfo.cs
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.dll
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\refint\mineswepper.dll
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.pdb
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\mineswepper.genruntimeconfig.cache
+C:\Users\Zgút Levente\Desktop\tick\mineswepper\obj\Debug\net6.0-windows\ref\mineswepper.dll
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form1.resources
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfo.cs
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.dll
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\refint\mineswepper.dll
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.pdb
+G:\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.exe
+G:\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.deps.json
+G:\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.runtimeconfig.json
+G:\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.dll
+G:\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.pdb
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.genruntimeconfig.cache
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\ref\mineswepper.dll
+G:\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form2.resources
+G:\valahonan\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.exe
+G:\valahonan\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.deps.json
+G:\valahonan\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.runtimeconfig.json
+G:\valahonan\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.dll
+G:\valahonan\asztrol\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.pdb
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form1.resources
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form2.resources
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfo.cs
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.dll
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\refint\mineswepper.dll
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.pdb
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.genruntimeconfig.cache
+G:\valahonan\asztrol\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\ref\mineswepper.dll
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.exe
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.deps.json
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.runtimeconfig.json
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.dll
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\bin\Debug\net6.0-windows\mineswepper.pdb
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form1.resources
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.Form2.resources
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.AssemblyInfo.cs
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.dll
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\refint\mineswepper.dll
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.pdb
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\mineswepper.genruntimeconfig.cache
+G:\meh1\programok\minswepminden\ujoopverzio\mineswepper\obj\Debug\net6.0-windows\ref\mineswepper.dll
