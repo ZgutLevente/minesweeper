@@ -1,0 +1,16 @@
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.Form1.resources
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.csproj.GenerateResource.cache
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.GeneratedMSBuildEditorConfig.editorconfig
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.AssemblyInfoInputs.cache
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.AssemblyInfo.cs
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.csproj.CoreCompileInputs.cache
+G:\p\mineswepper\mineswepper\bin\Release\net6.0-windows\mineswepper.exe
+G:\p\mineswepper\mineswepper\bin\Release\net6.0-windows\mineswepper.deps.json
+G:\p\mineswepper\mineswepper\bin\Release\net6.0-windows\mineswepper.runtimeconfig.json
+G:\p\mineswepper\mineswepper\bin\Release\net6.0-windows\mineswepper.dll
+G:\p\mineswepper\mineswepper\bin\Release\net6.0-windows\mineswepper.pdb
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.dll
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\refint\mineswepper.dll
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.pdb
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\mineswepper.genruntimeconfig.cache
+G:\p\mineswepper\mineswepper\obj\Release\net6.0-windows\ref\mineswepper.dll
